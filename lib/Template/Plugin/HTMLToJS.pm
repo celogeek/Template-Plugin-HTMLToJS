@@ -20,8 +20,6 @@ package Template::Plugin::HTMLToJS;
     #could be use easily with on distant site
     <script src="http://www.test.com/yourhtmltojstemplate"></script>
 
-=cut
-
 =head1 DESCRIPTION
 
 I have made this module to give an easy way to send html formated content to a javascript call.
